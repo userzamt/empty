@@ -4,3 +4,6 @@
 
 :pizza:
 :ru:
+:daemon:
+:heart:
+
