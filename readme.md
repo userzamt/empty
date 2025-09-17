@@ -4,6 +4,6 @@
 
 :pizza:
 :ru:
-:daemon:
+:demon:
 :heart:
 
